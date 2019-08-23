@@ -2,8 +2,7 @@
 layout: page
 title: Research
 ---
-
-### Publications
+## Publications
 
 **Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), *American Economic Journal: Economic Policy*, Vol. 10, No. 3, August 2018, Pages 226-254
 [[Published Version](https://www.aeaweb.org/articles?id=10.1257/pol.20170211)]
@@ -13,7 +12,7 @@ title: Research
 [[Published Version](https://www.sciencedirect.com/science/article/pii/S0305750X17304084)]
 [[Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930520)]
 
-### Working Papers
+## Working Papers
 
 **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), Revised and Resubmitted to *Econometrica* (2nd round) [[SSRN link](https://papers.ssrn.com/abstract=2696236)]
 
