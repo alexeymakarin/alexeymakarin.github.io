@@ -1,0 +1,48 @@
+# Ignore docs files
+_gh_pages
+_site
+.ruby-version
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# OS or Editor folders
+.DS_Store
+._*
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+*.sublime-project
+*.sublime-workspace
+.idea
+
+# Komodo
+*.komodoproject
+.komodotools
+
+# grunt-html-validation
+validation-status.json
+validation-report.json
+
+# Folders to ignore
+node_modules
+code.md
+figures/unnamed-chunk-1-1.png
+figures/unnamed-chunk-2-1.png
+figures/unnamed-chunk-3-1.png
+figures/unnamed-chunk-3-2.png
+figures/unnamed-chunk-4-1.png
+figures/unnamed-chunk-4-2.png

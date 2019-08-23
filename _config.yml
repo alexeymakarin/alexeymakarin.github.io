@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:           Alexey Makarin
+description:     Assistant Professor in Economics, Einaudi Institute for Economics and Finance (EIEF)
+
+
+author:
+  name:           ''
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
