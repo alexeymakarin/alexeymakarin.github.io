@@ -10,7 +10,7 @@ title: Research
 
 **Reducing Bureaucratic Corruption: Interdisciplinary Perspectives on What Works** (with [Jordan Gans-Morse](http://faculty.wcas.northwestern.edu/~jlg562/index.html), [Mariana Borges](https://www.marianaborges.info), [Theresa Mannah-Blankson](http://blogs.umass.edu/towusuda/), [Andre Nickow](https://scholar.google.com/citations?user=suy4wDQAAAAJ&hl=en), and [Dong Zhang](https://sites.google.com/site/poliscidongzhang/)), *World Development*, Vol. 105, May 2018, Pages 171-188
 [[Published Version](https://www.sciencedirect.com/science/article/pii/S0305750X17304084)]
-[[Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930520)]
+[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2930520)]
 
 ### Working Papers
 
