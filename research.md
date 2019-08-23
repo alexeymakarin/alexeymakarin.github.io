@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Research
+name: Reseach
+title: null
 ---
 
 #### Publications
