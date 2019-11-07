@@ -23,5 +23,4 @@ title: Research
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
 [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)] [Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*]
 
-* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104))
-[[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
+* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
