@@ -4,7 +4,7 @@ title: Research
 ---
 ### Publications
 
-**Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), _American Economic Journal: Economic Policy_, Vol. 10, No. 3, August 2018, Pages 226-254
+**Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), ***American Economic Journal: Economic Policy***, Vol. 10, No. 3, August 2018, Pages 226-254
 [[Published Version](https://www.aeaweb.org/articles?id=10.1257/pol.20170211)]
 [[Working Paper Version](assets/AEJ_revised_version.pdf)]
 
