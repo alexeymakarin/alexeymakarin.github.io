@@ -16,7 +16,7 @@ title: Research
 
 ### Working Papers
 
-* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), Revise and Resubmit at ***Econometrica (3rd round)*** [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
+* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), Revised and Resubmitted to ***Econometrica (3rd round)*** [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
     * Media Coverage: [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
 
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)] [Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*] Submitted
