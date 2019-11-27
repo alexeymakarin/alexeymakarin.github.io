@@ -19,10 +19,10 @@ title: Research
 
 ### Working Papers
 
+* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
+
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)), Submitted [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)] [Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*]
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
-
-* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
 
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
     * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Forbes.ru](https://www.forbes.ru/sobytiya-column/lyudi/82978-chto-vyvodit-lyudei-na-ploshchad), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
