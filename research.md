@@ -4,6 +4,9 @@ title: Research
 ---
 ### Publications
 
+* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica*** (Accepted for publication) [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
+    * Media Coverage: [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
+
 * **Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), ***American Economic Journal: Economic Policy***, Vol. 10, No. 3, August 2018, Pages 226-254
 [[Published Version](https://www.aeaweb.org/articles?id=10.1257/pol.20170211)]
 [[Working Paper Version](assets/AEJ_revised_version.pdf)]
@@ -16,13 +19,10 @@ title: Research
 
 ### Working Papers
 
-* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), Revised and Resubmitted to ***Econometrica (3rd round)*** [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
-    * Media Coverage: [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
-
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)), Submitted [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)] [Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*]
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
+* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
+
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
     * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Forbes.ru](https://www.forbes.ru/sobytiya-column/lyudi/82978-chto-vyvodit-lyudei-na-ploshchad), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
-
-* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
