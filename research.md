@@ -4,7 +4,7 @@ title: Research
 ---
 ### Publications
 
-* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica*** (Accepted for publication) [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
+* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica***, *forthcoming* [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
     * Media Coverage: [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
 
 * **Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), ***American Economic Journal: Economic Policy***, Vol. 10, No. 3, August 2018, Pages 226-254
