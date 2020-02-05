@@ -5,7 +5,7 @@ title: Research
 ### Publications
 
 * **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica***, *forthcoming* [[SSRN link](https://papers.ssrn.com/abstract=2696236)] [[In Russian](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
-    * Media Coverage: [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/), [VoxEU](https://voxeu.org/article/social-media-and-protest-participation)
+    * Media Coverage: [VoxEU](https://voxeu.org/article/social-media-and-protest-participation), [Forbes.ru](https://www.forbes.ru/obshchestvo/392221-faktor-durova-vs-fabriki-trolley-kak-socseti-vliyayut-na-protesty), [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
 
 * **Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from A Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), ***American Economic Journal: Economic Policy***, Vol. 10, No. 3, August 2018, Pages 226-254
 [[Published Version](https://www.aeaweb.org/articles?id=10.1257/pol.20170211)]
@@ -24,6 +24,6 @@ title: Research
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
-    * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Forbes.ru](https://www.forbes.ru/sobytiya-column/lyudi/82978-chto-vyvodit-lyudei-na-ploshchad), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
+    * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
 
 * **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
