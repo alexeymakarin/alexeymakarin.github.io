@@ -4,7 +4,7 @@ title: Teaching
 ---
 ### Teaching
 #### Assistant Professor at EIEF (2019--)
-* Advanced Corporate Finance / Information Economics, Spring 2020, joint EIEF/LUISS [RoME Master in Economics](http://www.romemaster.it/)
+* Information Economics, Spring 2020, joint EIEF/LUISS [RoME Master in Economics](http://www.romemaster.it/)
     * [Syllabus](assets/2020_Information_Economics_Syllabus.pdf)
     * Lecture 1. Introduction to Information Economics
     * Problem Set 1
