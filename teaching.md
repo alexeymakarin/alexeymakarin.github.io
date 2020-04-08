@@ -4,13 +4,10 @@ title: Teaching
 ---
 ### Teaching
 #### Assistant Professor at EIEF (2019--)
-* Advanced Corporate Finance / Information Economics, [RoME (Rome Master in Economics)](http://www.romemaster.it/)
+* Advanced Corporate Finance / Information Economics, Spring 2020, joint EIEF/LUISS [RoME Master in Economics](http://www.romemaster.it/)
     * [Syllabus](assets/2020_Information_Economics_Syllabus.pdf)
     * Lecture 1. Introduction to Information Economics
-    * Lecture 2. Adverse Selection: Screening
-    * Lecture 3. Adverse Selection: Signaling
     * Problem Set 1
-    * Problem Set 2
 
 #### Teaching Assistant at Northwestern University (2014--2018)
 * Political Economics ECON 335 (Spring 2015, Instructor: [Bruno Strulovici](http://faculty.wcas.northwestern.edu/~bhs675/))
