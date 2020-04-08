@@ -3,8 +3,7 @@ layout: page
 title: Teaching
 ---
 ### Teaching
-#### Assistant Professor at EIEF
-* Advanced Corporate Finance / Information Economics ([RoME (Rome Master in Economics)](http://www.romemaster.it/))
+#### Advanced Corporate Finance / Information Economics, [RoME (Rome Master in Economics)](http://www.romemaster.it/)
 * Syllabus
 * Slides
 * Lecture 1. Introduction to Information Economics
