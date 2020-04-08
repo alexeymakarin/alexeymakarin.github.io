@@ -4,7 +4,7 @@ title: Teaching
 ---
 ### Teaching
 #### Assistant Professor at EIEF (2019--)
-## Advanced Corporate Finance / Information Economics, [RoME (Rome Master in Economics)](http://www.romemaster.it/)
+##### Advanced Corporate Finance / Information Economics, [RoME (Rome Master in Economics)](http://www.romemaster.it/)
 * Syllabus
 * Lecture 1. Introduction to Information Economics
 * Lecture 2. Adverse Selection: Screening
