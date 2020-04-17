@@ -23,7 +23,7 @@ title: Research
     * Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
-* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revised and Resubmitted to ***Journal of Development Economics (2nd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
+* **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (3rd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
     * Previously circulated as “National Parties and Local Development: Evidence from Peruvian Municipalities”
 
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
