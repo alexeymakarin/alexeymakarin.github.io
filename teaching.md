@@ -7,6 +7,7 @@ title: Teaching
 * Information Economics, Spring 2020, [RoME Master in Economics](http://www.romemaster.it/)
   * [Syllabus](assets/2020_Information_Economics_Syllabus.pdf)
   * [Lecture 1. Introduction to Information Economics](assets/InformationEconomics_Lecture1_Spring2020.pdf)
+  * [Lecture 2. Screening](assets/InformationEconomics_Lecture2_Spring2020.pdf)
   * [Problem Set 1](assets/Problem_Set_1.pdf)
 
 #### Teaching Assistant at Northwestern University (2014--2018)
