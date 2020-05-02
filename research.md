@@ -20,7 +20,6 @@ title: Research
 ### Working Papers
 
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)), Revise and Resubmit at ***American Economic Review*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)]
-    * Previously circulated as *"Trading with the Enemy: The Impact of Conflict on Trade in Non-Conflict Areas"*
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
 * **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (3rd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
