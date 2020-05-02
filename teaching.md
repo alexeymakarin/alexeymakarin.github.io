@@ -13,7 +13,7 @@ title: Teaching
   * [Section 1](assets/InformationEconomics_Section1_Spring2020.pdf) [(w/ solution)](assets/InformationEconomics_Section1_withSolution_Spring2020.pdf)
   * [Section 2](assets/InformationEconomics_Section2_Spring2020.pdf)
   * [Problem Set 1](assets/Problem_Set_1.pdf)
-  * [Problem Set 2](assets/Problem_Set_2.pdf)
+  * [Problem Set 2](assets/Problem_Set_2.pdf) [(solutions)](assets/Problem_Set_2_Solutions.pdf)
   * [Problem Set 3](assets/Problem_Set_3.pdf)
 
 #### Teaching Assistant at Northwestern University (2014--2018)
