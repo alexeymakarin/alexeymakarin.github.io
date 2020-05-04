@@ -10,6 +10,7 @@ title: Teaching
   * [Lecture 2. Screening](assets/InformationEconomics_Lecture2_Spring2020.pdf)
   * [Lecture 3. Signaling](assets/InformationEconomics_Lecture3_Spring2020.pdf)
   * [Lecture 4. Moral Hazard](assets/InformationEconomics_Lecture4_Spring2020.pdf)
+  * [Lecture 5. Auctions, Part I](assets/InformationEconomics_Lecture5_Spring2020.pdf)
   * [Section 1](assets/InformationEconomics_Section1_Spring2020.pdf) [(w/ solution)](assets/InformationEconomics_Section1_withSolution_Spring2020.pdf)
   * [Section 2](assets/InformationEconomics_Section2_Spring2020.pdf)
   * [Problem Set 1](assets/Problem_Set_1.pdf)
