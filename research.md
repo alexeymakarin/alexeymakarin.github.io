@@ -25,7 +25,7 @@ title: Research
 * **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), Revise and Resubmit at ***Journal of Development Economics (3rd round)*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
     * Previously circulated as “National Parties and Local Development: Evidence from Peruvian Municipalities”
 
-* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
+* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)], *submitted*
     * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
 
 ### Selected Work in Progress
