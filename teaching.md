@@ -19,6 +19,7 @@ title: Teaching
   * [Section 2](assets/InformationEconomics_Section2_Spring2020.pdf)
   * [Section 3](assets/InformationEconomics_Section3_Spring2020.pdf)
   * [Section 4](assets/InformationEconomics_Section4_Spring2020.pdf)
+  * [Section 5](assets/InformationEconomics_Section5_Spring2020.pdf)
   * [Problem Set 1](assets/Problem_Set_1.pdf)
   * [Problem Set 2](assets/Problem_Set_2.pdf) [(solutions)](assets/Problem_Set_2_Solutions.pdf)
   * [Problem Set 3](assets/Problem_Set_3.pdf)
