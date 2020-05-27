@@ -29,6 +29,7 @@ title: Teaching
   * [Problem Set 4](assets/Problem_Set_4.pdf)
   * [Problem Set 5](assets/Problem_Set_5.pdf)
   * [Problem Set 6](assets/Problem_Set_6.pdf)
+  * [Practice Problems](assets/PracticeProblems_Spring2020.pdf)
 
 #### Teaching Assistant at Northwestern University (2014--2018)
 * Political Economics ECON 335 (Spring 2015, Instructor: [Bruno Strulovici](http://faculty.wcas.northwestern.edu/~bhs675/))
