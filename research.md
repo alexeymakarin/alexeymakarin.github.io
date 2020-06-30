@@ -33,3 +33,4 @@ title: Research
 ### Selected Work in Progress
 * **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
 * **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172))
+* **The Political Effects of Annexation: Evidence from the Nazi Operational Zones in Italy** (with [Mario Cannella](https://www.economics.northwestern.edu/people/graduate/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home))
