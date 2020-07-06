@@ -25,10 +25,10 @@ title: Research
 * **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)), Revise and Resubmit at ***American Economic Review*** [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)]
     * Media Coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
-* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)], *submitted*
+* **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
     * Media Coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
 
-* **Divided We Stay Home: Social Distancing and Ethnic Diversity** (with [Georgy Egorov](https://www.kellogg.northwestern.edu/faculty/egorov/htm/main.html), [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609527)]
+* **Divided We Stay Home: Social Distancing and Ethnic Diversity** (with [Georgy Egorov](https://www.kellogg.northwestern.edu/faculty/egorov/htm/main.html), [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609527)], *submitted*
 
 ### Selected Work in Progress
 * **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
