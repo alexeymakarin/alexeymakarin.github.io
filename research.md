@@ -4,9 +4,9 @@ title: Research
 ---
 ### Publications
 
-* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica***, Vol. 88, No. 4, July 2020, Pages 1479-1514 [PDF](assets/ECTA14281.pdf) [[Journal link](https://doi.org/10.3982/ECTA14281)] [[SSRN link](https://papers.ssrn.com/abstract=2696236)]
+* **Social Media and Protest Participation: Evidence from Russia** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/) and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)), ***Econometrica***, Vol. 88, No. 4, July 2020, Pages 1479-1514 [[PDF](assets/ECTA14281.pdf)] [[Journal link](https://doi.org/10.3982/ECTA14281)] [[SSRN link](https://papers.ssrn.com/abstract=2696236)]
     * Media Coverage: [VoxEU](https://voxeu.org/article/social-media-and-protest-participation), [Forbes.ru](https://www.forbes.ru/obshchestvo/392221-faktor-durova-vs-fabriki-trolley-kak-socseti-vliyayut-na-protesty), [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/)
-    * [Russian Version](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)]
+    * Russian Version: [Vestnik Obshchestvennogo Mnenia](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)
 
 * **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), ***Journal of Development Economics***, Vol. 146, September 2020 [[Journal link](https://authors.elsevier.com/a/1bF0a15DRFvofm)] [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
     * Previously circulated as “National Parties and Local Development: Evidence from Peruvian Municipalities”
