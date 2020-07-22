@@ -26,7 +26,7 @@ title: Research
     * Media coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
 * **Divided We Stay Home: Social Distancing and Ethnic Diversity** (with [Georgy Egorov](https://www.kellogg.northwestern.edu/faculty/egorov/htm/main.html), [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609527)]
-    * *submitted*s
+    * *submitted*
 
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
     * Media coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
