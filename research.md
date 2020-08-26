@@ -31,7 +31,7 @@ title: Research
 * **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
     * Media coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
 
-* **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172)), coming soon
+* **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172)), *coming soon*
 
 ### Selected Work in Progress
 * **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
