@@ -30,7 +30,8 @@ title: Research
 
 * **Divided We Stay Home: Social Distancing and Ethnic Diversity** (with [Georgy Egorov](https://www.kellogg.northwestern.edu/faculty/egorov/htm/main.html), [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609527)], *submitted*
 
+* **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172)), *coming soon!*
+
 ### Selected Work in Progress
 * **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
-* **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172))
 * **The Legacy of Nazi Annexation** (with [Mario Cannella](https://www.economics.northwestern.edu/people/graduate/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home))
