@@ -23,7 +23,6 @@ title: Research
 ### Working Papers
 
 1. **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)], Revise and Resubmit at ***American Economic Review***
-    - Media coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 
 2. **Divided We Stay Home: Social Distancing and Ethnic Diversity** (with [Georgy Egorov](https://www.kellogg.northwestern.edu/faculty/egorov/htm/main.html), [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), and [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3609527)] [[CEPR DP](https://portal.cepr.org/discussion-paper/16490)] [[NBER WP](https://www.nber.org/papers/w27277)], *submitted*
 
