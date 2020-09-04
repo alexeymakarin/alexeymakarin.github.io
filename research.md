@@ -8,7 +8,6 @@ title: Research
     - Popular writing: [VoxEU](https://voxeu.org/article/social-media-and-protest-participation), [Forbes.ru](https://www.forbes.ru/obshchestvo/392221-faktor-durova-vs-fabriki-trolley-kak-socseti-vliyayut-na-protesty), [FREE Policy Briefs](https://freepolicybriefs.org/2015/11/23/does-social-media-promote-protests-2/), [Vestnik Obshchestvennogo Mnenia](https://cyberleninka.ru/article/n/sotsialnye-media-i-politicheskie-protesty)
 
 2. **National or Sub-National Parties: Does Party Geographic Scope Matter?** (with [Ricardo Pique](https://sites.google.com/site/piquericardo/home) and [Fernando Aragon](https://sites.google.com/view/fernandoaragon/home)), **_Journal of Development Economics_**, Vol. 146, September 2020 [[Journal link](https://www.sciencedirect.com/science/article/abs/pii/S0304387820300912)] [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2996172)]
-    - Previously circulated as “National Parties and Local Development: Evidence from Peruvian Municipalities”
 
 3. **Can Online Off-The-Shelf Lessons Improve Student Outcomes? Evidence from a Field Experiment** (with [Kirabo Jackson](https://works.bepress.com/c_kirabo_jackson/)), ***American Economic Journal: Economic Policy***, Vol. 10, No. 3, August 2018, Pages 226-254
 [[Journal link](https://www.aeaweb.org/articles?id=10.1257/pol.20170211)]
