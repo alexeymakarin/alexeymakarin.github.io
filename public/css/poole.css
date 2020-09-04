@@ -121,8 +121,7 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
-li { font-size: 14px }
-li li { font-size: 14px }
+li { font-size: 100% }
 
 dt {
   font-weight: bold;
