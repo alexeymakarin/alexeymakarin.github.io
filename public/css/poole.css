@@ -123,6 +123,8 @@ ul, ol, dl {
 
 li { font-size: 85% ; margin-bottom: 1rem}
 
+li li { margin-bottom: 0rem }
+
 dt {
   font-weight: bold;
 }
