@@ -27,4 +27,4 @@ title: Research
 
 ### Selected Work in Progress
 1.  **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/))
-2.  **The Legacy of Nazi Annexation** (with [Mario Cannella](https://sites.google.com/view/mariocannella/home) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home))
+2.  **The Legacy of Nazi Annexation** (with [Mario Cannella](https://www.mariocannella.com/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home))
