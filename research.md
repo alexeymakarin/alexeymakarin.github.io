@@ -25,6 +25,4 @@ title: Research
 3. **Affinity, Trust, and Information** (with [Luigi Guiso](http://www.eief.it/eief/index.php/people/faculty-az?id=172)) [[CEPR DP](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15250)] [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3686048)] [[video](https://youtu.be/gjiWBPcewrY?t=1839)]
 4. **Social Image, Networks, and Protest Participation** (with [Ruben Enikolopov](https://sites.google.com/site/rubenenikolopov/), [Maria Petrova](https://sites.google.com/site/mariapetrovaphd/), and [Leonid Polishchuk](https://www.hse.ru/en/org/persons/65104)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2940171)]
    - Media coverage: [Republic.ru](https://republic.ru/posts/l/827383), [Vedomosti.ru](https://www.vedomosti.ru/opinion/articles/2012/09/17/vospitanie_obschestva)
-
-### Selected Work in Progress
-1.  **The Legacy of Nazi Annexation** (with [Mario Cannella](https://www.mariocannella.com/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home))
+5.  **The Political Legacy of Nazi Annexation** (with [Mario Cannella](https://www.mariocannella.com/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home)) [[PDF](assets/Nazi_Annexation.pdf)]
