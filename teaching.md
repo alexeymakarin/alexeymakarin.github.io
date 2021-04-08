@@ -5,6 +5,7 @@ title: Teaching
 ### Teaching
 #### Assistant Professor at EIEF (2019--)
 
+* Information Economics, Spring 2021, [RoME Master in Economics](http://www.romemaster.it/) [[Syllabus](assets/2021_Information_Economics_Syllabus.pdf)]
 * Information Economics, Spring 2020, [RoME Master in Economics](http://www.romemaster.it/) [[Syllabus](assets/2020_Information_Economics_Syllabus.pdf)]
 
 #### Teaching Assistant at Northwestern University (2014--2018)
