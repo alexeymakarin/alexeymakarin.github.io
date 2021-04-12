@@ -6,6 +6,8 @@ title: Teaching
 #### Assistant Professor at EIEF (2019--)
 * Information Economics, Spring 2020, Spring 2021, [RoME Master in Economics](http://www.romemaster.it/)
   * [[Syllabus](assets/2021_Information_Economics_Syllabus.pdf)]
+  * [[Lecture 1](assets/InformationEconomics_Lecture1_Spring2021.pdf)]
+  * [[Section 1](assets/InformationEconomics_Section1_Spring2021.pdf)]
 
 #### Teaching Assistant at Northwestern University (2014--2018)
 * Political Economics ECON 335 (Spring 2015, Instructor: [Bruno Strulovici](http://faculty.wcas.northwestern.edu/~bhs675/))
