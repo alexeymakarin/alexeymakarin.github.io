@@ -8,6 +8,7 @@ title: Teaching
   * [Syllabus](assets/2021_Information_Economics_Syllabus.pdf)
   * [Lecture 1](assets/InformationEconomics_Lecture1_Spring2021.pdf)
   * [Lecture 2](assets/InformationEconomics_Lecture2_Spring2021.pdf)
+  * [Lecture 3](assets/InformationEconomics_Lecture3_Spring2021.pdf)
   * [Section 1](assets/InformationEconomics_Section1_Spring2021.pdf)
   * [Problem Set 1](assets/InformationEconomics_ProblemSet1_Spring2021.pdf)
 
