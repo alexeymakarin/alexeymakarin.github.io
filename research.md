@@ -21,7 +21,7 @@ title: Research
 
 ### Working Papers
 
-1. **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)], revised and resubmitted at the ***American Economic Review***
+1. **Conflict and Inter-Group Trade: Evidence from the 2014 Russia-Ukraine Crisis** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3397276)], revised and resubmitted to the ***American Economic Review***
     - Media coverage: [Jain Family Institute Newsletter](https://phenomenalworld.org/letters/overboard)
 2. **Production Networks and War** (with [Vasily Korovkin](https://sites.google.com/site/vaskorovkin/)) [[arXiv link](https://arxiv.org/abs/2011.14756)]
 3.  **The Political Legacy of Nazi Annexation** (with [Mario Cannella](https://www.mariocannella.com/) and [Ricardo Pique](https://sites.google.com/site/piquericardo/home)) [[SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3817933)]
