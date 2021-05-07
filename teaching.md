@@ -10,7 +10,7 @@ title: Teaching
   * [Lecture 2](assets/InformationEconomics_Lecture2_Spring2021.pdf)
   * [Lecture 3](assets/InformationEconomics_Lecture3_Spring2021.pdf)
   * [Lectures 4-5](assets/InformationEconomics_Lectures4&5_Spring2021.pdf)
-  * [Lectures 6-7](assets/InformationEconomics_Lectures6&7_Spring2021.pdf)
+  * [Lectures 6-7-8](assets/InformationEconomics_Lectures6&7&8_Spring2021.pdf)
   * [Section 1](assets/InformationEconomics_Section1_Spring2021.pdf)
   * [Section 2](assets/InformationEconomics_Section2_Spring2021.pdf)
   * [Section 3](assets/InformationEconomics_Section3_Spring2021.pdf)
