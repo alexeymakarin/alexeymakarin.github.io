@@ -16,6 +16,7 @@ title: Teaching
   * [Section 2](assets/InformationEconomics_Section2_Spring2021.pdf)
   * [Section 3](assets/InformationEconomics_Section3_Spring2021.pdf)
   * [Section 4](assets/InformationEconomics_Section4_Spring2021.pdf)
+  * [Section 5](assets/InformationEconomics_Section5_Spring2021.pdf)
   * [Problem Set 1](assets/InformationEconomics_ProblemSet1_Spring2021.pdf)
   * [Problem Set 2](assets/InformationEconomics_ProblemSet2_Spring2021.pdf)
   * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf)
