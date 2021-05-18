@@ -19,9 +19,9 @@ title: Teaching
   * [Section 5](assets/InformationEconomics_Section5_Spring2021.pdf)
   * [Section 6](assets/InformationEconomics_Section6_Spring2021.pdf)
   * [Problem Set 1](assets/InformationEconomics_ProblemSet1_Spring2021.pdf)
-  * [Problem Set 2](assets/InformationEconomics_ProblemSet2_Spring2021.pdf) ([Solutions (by Laura and Meruyert)](assets/Laura_Meruyert_PS2.pdf))
-  * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf) ([Solutions (by Federica and Maria Pia)](assets/Federica_MariaPia_PS3.pdf))
-  * [Problem Set 4](assets/InformationEconomics_ProblemSet4_Spring2021.pdf) ([Solutions (by Alessandro and Edoardo)](assets/Alessandro_Edoardo_PS4.pdf))
+  * [Problem Set 2](assets/InformationEconomics_ProblemSet2_Spring2021.pdf) [[Solutions (by Laura and Meruyert)](assets/Laura_Meruyert_PS2.pdf)]
+  * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf) [[Solutions (by Federica and Maria Pia)](assets/Federica_MariaPia_PS3.pdf)]
+  * [Problem Set 4](assets/InformationEconomics_ProblemSet4_Spring2021.pdf) [[Solutions (by Alessandro and Edoardo)](assets/Alessandro_Edoardo_PS4.pdf)]
   * [Problem Set 5](assets/InformationEconomics_ProblemSet5_Spring2021.pdf)
 
 #### Teaching Assistant at Northwestern University (2014--2018)
