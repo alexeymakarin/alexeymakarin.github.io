@@ -11,7 +11,7 @@ title: Teaching
   * [Lecture 3](assets/InformationEconomics_Lecture3_Spring2021.pdf)
   * [Lectures 4-5](assets/InformationEconomics_Lectures4&5_Spring2021.pdf)
   * [Lectures 6-7-8](assets/InformationEconomics_Lectures6&7&8_Spring2021.pdf)
-  * [Lectures 9-10-11](assets/InformationEconomics_Lectures9&10&11_Spring2021.pdf)
+  * [Lectures 9-10-11-12](assets/InformationEconomics_Lectures9&10&11_Spring2021.pdf)
   * [Section 1](assets/InformationEconomics_Section1_Spring2021.pdf)
   * [Section 2](assets/InformationEconomics_Section2_Spring2021.pdf)
   * [Section 3](assets/InformationEconomics_Section3_Spring2021.pdf)
@@ -20,7 +20,7 @@ title: Teaching
   * [Section 6](assets/InformationEconomics_Section6_Spring2021.pdf)
   * [Problem Set 1](assets/InformationEconomics_ProblemSet1_Spring2021.pdf)
   * [Problem Set 2](assets/InformationEconomics_ProblemSet2_Spring2021.pdf) [[Solutions (by Laura and Meruyert)](assets/Laura_Meruyert_PS2.pdf)]
-  * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf) [[Solutions (by Federica and Maria Pia)](assets/Federica_MariaPia_PS3.pdf)]
+  * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf) [[Solutions to Problems 1-2 (by Federica and Maria Pia)](assets/Federica_MariaPia_PS3.pdf)] [[Solutions to Problem 3 (by Egor)](assets/Egor_PS3_Problem3.pdf)]
   * [Problem Set 4](assets/InformationEconomics_ProblemSet4_Spring2021.pdf) [[Solutions (by Alessandro and Edoardo)](assets/Alessandro_Edoardo_PS4.pdf)]
   * [Problem Set 5](assets/InformationEconomics_ProblemSet5_Spring2021.pdf)
 
