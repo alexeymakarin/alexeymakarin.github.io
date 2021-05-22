@@ -11,7 +11,7 @@ title: Teaching
   * [Lecture 3](assets/InformationEconomics_Lecture3_Spring2021.pdf)
   * [Lectures 4-5](assets/InformationEconomics_Lectures4&5_Spring2021.pdf)
   * [Lectures 6-7-8](assets/InformationEconomics_Lectures6&7&8_Spring2021.pdf)
-  * [Lectures 9-10-11-12](assets/InformationEconomics_Lectures9&10&11_Spring2021.pdf)
+  * [Lectures 9-10-11-12](assets/InformationEconomics_Lectures9&10&11&12_Spring2021.pdf)
   * [Section 1](assets/InformationEconomics_Section1_Spring2021.pdf)
   * [Section 2](assets/InformationEconomics_Section2_Spring2021.pdf)
   * [Section 3](assets/InformationEconomics_Section3_Spring2021.pdf)
@@ -23,6 +23,7 @@ title: Teaching
   * [Problem Set 3](assets/InformationEconomics_ProblemSet3_Spring2021.pdf) [[Solutions to Problems 1-2 (by Federica and Maria Pia)](assets/Federica_MariaPia_PS3.pdf)] [[Solutions to Problem 3 (by Egor)](assets/Egor_PS3_Problem3.pdf)]
   * [Problem Set 4](assets/InformationEconomics_ProblemSet4_Spring2021.pdf) [[Solutions (by Alessandro and Edoardo)](assets/Alessandro_Edoardo_PS4.pdf)]
   * [Problem Set 5](assets/InformationEconomics_ProblemSet5_Spring2021.pdf)
+  * [Practice Problems](assets/Practice_Problems.pdf)
 
 #### Teaching Assistant at Northwestern University (2014--2018)
 * Political Economics ECON 335 (Spring 2015, Instructor: [Bruno Strulovici](http://faculty.wcas.northwestern.edu/~bhs675/))
